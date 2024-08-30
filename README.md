@@ -35,7 +35,3 @@ Bu projeyi yerel ortamınızda çalıştırmak için:
 2. Visual Studio gibi bir IDE kullanarak projeyi açın.
 3. Programı derleyin ve çalıştırın.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-
